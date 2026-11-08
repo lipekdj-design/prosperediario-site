@@ -7,7 +7,7 @@ Site público da página sem rosto Prospere Diário (@prosperediario). Serve par
 - `desafio-30-dias`: página de vendas do ebook "30 Dias de Prosperidade" (R$ 9,90 na Kiwify), porta de entrada do funil da Máquina Prospere.
 
 ## Onde está
-- Vercel: projeto `prosperediario` (time LIPE's projects), domínio `prosperediario.vercel.app`.
+- Hospedagem: VPS StayCloud #11546 no Coolify (branch main, publica a cada push), domínio `prospere.wearedropz.com.br` desde 08/11/2026. O projeto `prosperediario` da Vercel (`prosperediario.vercel.app`) ficou só de reserva.
 - Antes de 26/10/2026 o site era publicado por upload, sem Git. Neste dia virou repositório e as 3 páginas antigas foram copiadas do ar sem mudar o conteúdo (conferido por hash do corpo de cada página); só trocamos o Google Fonts pelas letras do próprio site.
 
 ## Decisões

@@ -2,8 +2,8 @@
 
 Site público do Prospere Diário (@prosperediario): página inicial, política de privacidade, termos de uso e a página de vendas do ebook "30 Dias de Prosperidade".
 
-- No ar: https://prosperediario.vercel.app
-- Página de vendas: https://prosperediario.vercel.app/desafio-30-dias
+- No ar: https://prospere.wearedropz.com.br (VPS StayCloud, Coolify; antes prosperediario.vercel.app)
+- Página de vendas: https://prospere.wearedropz.com.br/desafio-30-dias
 - Checkout (Kiwify): https://pay.kiwify.com.br/3ICab1J
 
 ## Como é feito
